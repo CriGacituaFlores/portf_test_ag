@@ -1,0 +1,18 @@
+problemas actuales en chile
+* impuestos
+* levantamiento de capital
+* registro de activos
+* sistema de pagos
+* contratos legales = smart contracts
+
+tipo de empresa
+* sociedad por acciones (flexibilidad)
+* responden por aporte (4 eth)
+* 3/4 para decisiones mayores, 1 para cotidianidades
+
+scope
+* desarrollo
+* servicios
+* consultoria
+* inversiones
+

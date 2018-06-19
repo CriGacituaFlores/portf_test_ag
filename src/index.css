@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+html, html * {
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  background-color: #f1f4f6;
+}
+
+html {
+  margin: 0 auto;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #f1f4f6;
+  margin: 0 auto;
+  min-height: 100%;
+  min-width: 100%;
+  color: #333
+}
+
+.right {
+  position: absolute;
+  right: 12px;
+}
+
+#root {
+  height: 100%;
+}
+
+.row-title {
+  font-weight: normal;
+  color: #333;
+  margin-top: 16px;
+}
+
+.row-subtitle {
+  font-size: 14px;
+  color: #757575;
+  margin-top: 8px;
+}

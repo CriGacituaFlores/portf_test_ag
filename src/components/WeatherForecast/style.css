@@ -1,0 +1,28 @@
+.weather-forecast {
+  border: 1px dashed #bbcb32;
+  padding: 10px;
+  background: rgba(187, 203, 50, 0.21);
+}
+
+.weather-item {
+  display: flex;
+  flex-direction: row;
+  line-height: 2;
+}
+
+.weather-box {
+  width: 20%;
+  text-align: center;
+}
+
+.temp-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  line-height: 1
+}
+
+.weather-icon {
+  display: flex;
+  margin-right: 10px;
+}

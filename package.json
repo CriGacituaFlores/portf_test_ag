@@ -1,0 +1,42 @@
+{
+  "name": "agrobolt-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "intl": "^1.2.5",
+    "intl-locales-supported": "^1.0.0",
+    "material-design-icons": "^3.0.1",
+    "material-ui": "^0.19.4",
+    "moment": "^2.19.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-big-calendar": "^0.17.0",
+    "react-dom": "^16.0.0",
+    "react-flexbox-grid": "^1.1.5",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "react-table": "^6.7.5",
+    "react-tap-event-plugin": "^3.0.2",
+    "react-weathericons": "^1.0.4",
+    "recharts": "^1.0.0-beta.0",
+    "redux": "^3.7.2",
+    "redux-form": "^7.1.1",
+    "redux-immutable-state-invariant": "^2.1.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0"
+  }
+}

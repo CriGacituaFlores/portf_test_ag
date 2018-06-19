@@ -1,0 +1,27 @@
+.card-title {
+  font-weight: 100;
+  font-size: 32px;
+  display: block;
+  width: 100%;
+  color: #bbcb32;
+  border-bottom: 1px solid #bbcb32;
+  margin-bottom: 24px;
+}
+
+.card {
+  overflow: hidden;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.device-list {
+  margin-top: 16px;
+  width: 50%;
+  color:#333;
+}
+
+.device-list > h4 {
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px dashed #333;
+}
